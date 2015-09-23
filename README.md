@@ -8,7 +8,7 @@ Starter project using the following:
 - grunt-contrib-watch
 - grunt-contrib-connect
 
-## Instructions
+### Instructions
 
 1. Install Node.js (for first timers)
 
